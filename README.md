@@ -7,7 +7,7 @@ accept 3 methods:
 
 * color - using overlay with filled layer 
 * multiply - using multyply method for source image and colored layer
-* overlay - using overlay method 
+* overlay - using overlay [method](http://www.deepskycolors.com/archive/2010/04/21/formulas-for-Photoshop-blending-modes.html)
 
 created by [Artem K.](https://github.com/Kryvonis)
 
